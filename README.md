@@ -1,0 +1,2 @@
+# generatorSqlmapCustom
+MyBatis逆向工程生成映射文件和实体类
